@@ -22,8 +22,7 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
-
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/02d15936-d4c8-4060-99d1-9d7627b544ac" />
 
 ---
 
@@ -31,43 +30,36 @@ DATE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
+<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/ed5e9494-b7ae-4757-8b51-2dde379ec17d" />
 
 ---
 
 2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
-
-PASTE THE CIRCUIT HERE
----
+<img width="1600" height="1065" alt="image" src="https://github.com/user-attachments/assets/ac548b92-ccc1-49c8-89f9-e365210c1224" />
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
----
+<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/cc5e5db9-be16-424b-a260-ee436f615a40" />
+
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
-
-PASTE THE CIRCUIT HERE
----
+<img width="1600" height="1108" alt="image" src="https://github.com/user-attachments/assets/97ba19b1-ef50-4872-9022-5414023f11e5" />
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
----
+<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/6437c8b2-832f-4d6a-bd22-7f6e2db182f5" />
+
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
-
-PASTE THE CIRCUIT HERE
----
-
+<img width="1600" height="1103" alt="image" src="https://github.com/user-attachments/assets/2f92775d-0de6-4615-b4e3-ddb623854fe8" />
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
----
+<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/9810e5f1-bf64-4d5e-abf5-fa739f3f7633" />
+
 
 ## RESULT
 Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
